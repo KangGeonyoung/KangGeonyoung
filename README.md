@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=250&section=header&text=Geonyoung%20K&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=)
 
-### Hello, welcome to Geonyoung's github. :last_quarter_moon:
+### Hello :ghost:<br><br>
+### My name is Geonyoung Kang. :sunglasses:<br><br>
+### I'm studying Android and Server development. :last_quarter_moon:
 
 <!--
 **KangGeonyoung/KangGeonyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
