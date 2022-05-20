@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&text=Geonyoung%20Kang&fontSize=45&fontAlign=75&fontAlignY=40&fontColor=ffffff&rotate=16)
+![header](https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=250&section=header&text=Geonyoung%20K&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=)
 
 ### Hello, welcome to Geonyoung's github. :last_quarter_moon:
 
