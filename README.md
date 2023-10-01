@@ -2,7 +2,7 @@
 
 ### Hello :ghost:<br><br>
 ### My name is Geonyoung Kang. :sunglasses:<br><br>
-### I'm studying Android and Server development. :last_quarter_moon:
+### I'm studying Server development. :last_quarter_moon:
 
 <!--
 **KangGeonyoung/KangGeonyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
