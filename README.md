@@ -28,4 +28,4 @@ Stats
 
 Languages 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KangGeonyoung)](https://github.com/shinsangeun/shinsangeun)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KangGeonyoung&layout=compact)
