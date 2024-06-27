@@ -1,8 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=250&section=header&text=Geonyoung%20K&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=)
 
-**Hello** 👻<br>
-**My name is Geonyoung Kang.** :sunglasses:<br>
-**I'm studying Server development.** :last_quarter_moon:
+안녕하세요, 백엔드 개발자 강건영입니다. :last_quarter_moon: <br>
+**자바, 스프링, 스프링부트, JPA, AWS**를 주로 다루며, 요즘에는 클린코드의 여러가지 원칙을 지키며 코드를 작성하려고 노력하고 있습니다.<br>
+또한, 사람들과 협업할 때는 항상 겸손한 태도로 개발하며 많은 점을 배우려고 합니다.<br>
+감사합니다.
 
 <!--
 **KangGeonyoung/KangGeonyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
