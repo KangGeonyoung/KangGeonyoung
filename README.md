@@ -46,11 +46,9 @@ FETE는 **파티 및 페스티벌 행사 홍보 및 티켓 판매 서비스**를
 
 <br>
 
-# Stats & Languages
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KangGeonyoung&show_icons=true&theme=cobalt" width="48%" height="200px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KangGeonyoung&layout=compact&theme=cobalt&hide_border=true" width="48%" height="180px" />
-</div>
+# Stats
+<img src="https://github-readme-stats.vercel.app/api?username=KangGeonyoung&show_icons=true&theme=cobalt" />
+
 
 <br>
 
