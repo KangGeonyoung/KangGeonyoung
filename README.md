@@ -3,21 +3,6 @@
 안녕하세요, 백엔드 개발자 강건영입니다. :last_quarter_moon: <br>
 **자바, 스프링, 스프링부트, JPA, AWS**를 주로 다루며, 클린코드의 여러가지 원칙을 지키며 코드를 작성하려고 노력하고 있습니다.<br>
 
-
-<br>
-
-# Tech Stacks
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> <br>
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> <br>
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<br>
-
-
-# Stats & Languages
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KangGeonyoung&show_icons=true&theme=cobalt)
-<a href="https://github.com/KangGeonyoung"><img style="height:195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KangGeonyoung&layout=compact&theme=cobalt&hide_border=true" /></a> 
-
 <br>
 
 # FETE (Main Project)
@@ -48,5 +33,25 @@ FETE는 **파티 및 페스티벌 행사 홍보 및 티켓 판매 서비스**를
 
 ## 📌 GitHub Repository  
 🔗 [FETE Backend Repository](https://github.com/FETE-Develop/FETE_BE)  
+
+
+---
+
+<br>
+
+# Tech Stacks
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> <br>
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> <br>
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<br>
+
+# Stats & Languages
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KangGeonyoung&show_icons=true&theme=cobalt" width="48%" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KangGeonyoung&layout=compact&theme=cobalt&hide_border=true" width="48%" height="200px" />
+</div>
+
+<br>
 
 ---
