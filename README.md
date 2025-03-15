@@ -21,7 +21,7 @@ FETE는 **파티 및 페스티벌 행사 홍보 및 티켓 판매 서비스**를
 - **Google Play Store** (2025.01.17 출시) → [다운로드](https://play.google.com/store/apps/details?id=com.kr.fete&hl=ko)  
 
 ## 🛠 기술 스택  
-- **Backend** : Spring Boot, JPA, MySQL  
+- **Backend** : Spring, Spring Boot, JPA, MySQL  
 - **Infra** : AWS (EC2, RDS, S3, ElastiCache)  
 - **DevOps** : Docker, GitHub Actions  
 
