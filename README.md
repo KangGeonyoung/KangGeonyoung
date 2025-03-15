@@ -14,10 +14,39 @@
 <br>
 
 
-# Stats
+# Stats & Languages
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KangGeonyoung&show_icons=true&theme=cobalt)
+<a href="https://github.com/KangGeonyoung"><img style="height:195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KangGeonyoung&layout=compact&theme=cobalt&hide_border=true" /></a> 
 
 <br>
 
-# Languages 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KangGeonyoung&layout=compact)
+# FETE (Main Project)
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/c23d763c-698b-4b67-9fb7-ea5666217baa" width="150" alt="FETE Logo">
+</p>
+
+안녕하세요, **FETE** 입니다.  
+FETE는 **파티 및 페스티벌 행사 홍보 및 티켓 판매 서비스**를 제공합니다.  
+
+<br>
+
+## 📱 다운로드  
+- **App Store** (2024.10.27 출시) → [다운로드](https://apps.apple.com/kr/app/fete/id6720755427)  
+- **Google Play Store** (2025.01.17 출시) → [다운로드](https://play.google.com/store/apps/details?id=com.kr.fete&hl=ko)  
+
+## 🛠 기술 스택  
+- **Backend** : Spring Boot, JPA, MySQL  
+- **Infra** : AWS (EC2, RDS, S3, ElastiCache)  
+- **DevOps** : Docker, GitHub Actions  
+
+## 🔥 주요 기능  
+✔ **회원 관리** : 이메일, 카카오, 애플 로그인 / OAuth, JWT 토큰 사용  
+✔ **포스터** : 포스터 CRUD, 관심 등록, 다중 필터 조회  
+✔ **티켓** : 구매, 환불, QR 코드 발급 및 인증 (토스 페이먼츠 연동)  
+✔ **마이페이지** : 구매 티켓 조회, 회원 정보 수정, 회원 탈퇴
+
+## 📌 GitHub Repository  
+🔗 [FETE Backend Repository](https://github.com/FETE-Develop/FETE_BE)  
+
+---
