@@ -46,6 +46,12 @@ FETE는 **파티 및 페스티벌 행사 홍보 및 티켓 판매 서비스**를
 
 <br>
 
+# 📚 Tech Blog  
+[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@hawon/posts)  
+개발 경험과 프로젝트의 이슈사항 및 해결방안 등을 기록하고 있습니다. (아이콘을 클릭해 주세요!)
+
+<br>
+
 # Stats
 <img src="https://github-readme-stats.vercel.app/api?username=KangGeonyoung&show_icons=true&theme=cobalt" />
 
